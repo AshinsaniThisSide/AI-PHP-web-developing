@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(159, 227, 137);
+    justify-content: center;
+    align-items: center;
+}
+
+.container-md{
+    width: 450px;
+    background-color: #06823c;
+    border: none;
+    -webkit-backdrop-filter: blur(10px);
+    box-shadow: #24a95e;
+    color: rgb(255, 255, 255);
+    height: 45px;
+    border-radius: 10px;
+}
+.button{
+    background-color: rgb(50, 107, 32);
+    padding: 8px 50px;
+    border-radius: 10px;
+    background-blend-mode: normal;
+    color: rgb(0, 0, 0);
+    font-size: 10px;
+    font-weight: bold;
+    margin: 10px;
+    cursor: pointer;
+    background-color: #0c7f3e;
+    background-position: center;
+    font-weight:  lighter;
+    color: white;
+    font-family: 'Helvetica', sans-serif;
+}
+
+*{
+        font-weight: bold;
+        font-family: 'Helvetica', sans-serif;
+        font-size: 16px;
+    }
+    .container-md h2{
+        font-weight: bolder;
+    }
+}
